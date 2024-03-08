@@ -1,11 +1,10 @@
 # pyddos.py
 
-* This is my new update 
-* This script have 3 type of ddos attacks : SYNFLOOD | REQUEST | Pyslow
+DDOSER builded on mach1el's DDOS Lib, 3 type of request included: SYNFLOOD | REQUEST | Pyslow
 * Script has pyslow attack type which is similar to slowloris attack
 
 # Note
-* I wrote this script for educational not for destructive purposes and illegal actions, so I won't be responsible for that  
+* The Distrubuter: NotJunar, and the Lib c13 that this resource is based on, mach1el's web flooding requester author, mach1el, is not responsible for any legal action taken against you for this tool.
 
 
 # Requires module
